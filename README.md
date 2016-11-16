@@ -93,6 +93,28 @@ We would like to collect paper articles, news articles related to two topics:
 - Paul, Michael J. and Roxana Girju. “Topic Modeling of Research Fields: An Interdisciplinary Perspective.” RANLP (2009).
 - Radev, Dragomir R. et al. “The ACL anthology network corpus.” Language Resources and Evaluation 47 (2013): 919-944.
 - Yang, Tze-I. et al. “Topic Modeling on Historical Newspapers.” LaTeCH@ACL (2011).
+- [Building an automatic keyphrase extraction system using NLTK in Python](https://in.pycon.org/cfp/2016/proposals/building-an-automatic-keyphrase-extraction-system-using-nltk-in-python~e9g4b/?ref=schedule)
+- [Text Processing: Keyword-extraction](http://textprocessing.org/tag/keyword-extraction)
+
+### Topic modeling reading list
+
+- [Topic Models Reading List](http://www.biasedestimates.com/p/topic-models-reading-list.html)
+
+### Web Crawling
+
+- [Web Crawler – Python with Scrapy](http://www.treselle.com/blog/web-crawler-python-with-scrapy/)
+- [Installing and using Scrapy web crawler to search text on multiple sites](https://opensourcehacker.com/2011/03/08/installing-and-using-scrapy-web-crawler-to-search-text-on-multiple-sites/)
+- [Scrapy spider crawling Stack Overflow](https://gist.github.com/pawelmhm/8917867)
+- [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html)
+- [Scrapy at a glance](https://doc.scrapy.org/en/latest/intro/overview.html)
+- [Building a Web Crawler with Scrapy](https://blog.siliconstraits.vn/building-web-crawler-scrapy/)
+
+
+
+
+
+
+
 
 
 
