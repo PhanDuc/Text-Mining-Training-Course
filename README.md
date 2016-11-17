@@ -99,6 +99,9 @@ We would like to collect paper articles, news articles related to two topics:
 ### Topic modeling reading list
 
 - [Topic Models Reading List](http://www.biasedestimates.com/p/topic-models-reading-list.html)
+- [Using Gensim for LDA](http://christop.club/2014/05/06/using-gensim-for-lda/)
+- [Latent Dirichlet Allocation (LDA) with Python](https://rstudio-pubs-static.s3.amazonaws.com/79360_850b2a69980c4488b1db95987a24867a.html)
+- [Topic Modeling for Fun and Profit](radimrehurek.com/topic_modeling_tutorial/2 - Topic Modeling.html)
 
 ### Web Crawling
 
