@@ -112,6 +112,12 @@ We would like to collect paper articles, news articles related to two topics:
 - [Scrapy at a glance](https://doc.scrapy.org/en/latest/intro/overview.html)
 - [Building a Web Crawler with Scrapy](https://blog.siliconstraits.vn/building-web-crawler-scrapy/)
 
+### Python environments
+
+- Try Python online: [https://repl.it/languages/python3](https://repl.it/languages/python3)
+- Execute Python online: [https://www.tutorialspoint.com/execute_python_online.php](https://www.tutorialspoint.com/execute_python_online.php)
+
+
 
 
 
