@@ -1,6 +1,10 @@
 import json
 import re
 import os
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+
+english_stops = set(stopwords.words('english'))
 
 def extract_docs(filename, output_dir):
     """
@@ -20,6 +24,9 @@ def extract_docs(filename, output_dir):
             content = fields['content']
             re.sub(r'\n', ' ', content)
             content = content.strip()
+            words = word_tokenize(content)
+            words = [w for w in words if w not in english_stops]
+            content = ' '.join(words)
             # print(content)
             fo = open(output_path, 'w')
             fo.write(content)
