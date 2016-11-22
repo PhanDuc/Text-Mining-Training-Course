@@ -111,6 +111,7 @@ We would like to collect paper articles, news articles related to two topics:
 - [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html)
 - [Scrapy at a glance](https://doc.scrapy.org/en/latest/intro/overview.html)
 - [Building a Web Crawler with Scrapy](https://blog.siliconstraits.vn/building-web-crawler-scrapy/)
+- [Recursively Scraping A Blog With Scrapy](https://techcrunch.com/2016/11/19/how-data-science-and-rocke)
 
 ### Python environments
 
@@ -125,6 +126,10 @@ We would like to collect paper articles, news articles related to two topics:
 - [What are the best tutorial or review for studying topic modelling?](https://www.quora.com/What-are-the-best-tutorial-or-review-for-studying-topic-modelling)
 - [What is a good practical usecase for Topic Modeling and LDA?](https://www.quora.com/What-is-a-good-practical-usecase-for-Topic-Modeling-and-LDA)
 - [Natural Language Processing: What is the fastest and easiest to use implementation for LDA (training and inference) on a very large corpus?](https://www.quora.com/Natural-Language-Processing-What-is-the-fastest-and-easiest-to-use-implementation-for-LDA-training-and-inference-on-a-very-large-corpus)
+
+### Word Cloud Tools
+
+- [amueller/word_cloud](https://github.com/amueller/word_cloud): A little word cloud generator in Python
 
 
 
